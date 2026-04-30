@@ -1,3 +1,5 @@
+Base de datos abierta: diagnóstico socioeconómico del municipio de Minatitlán, Veracruz (2020–2025) en contribución a los ODS 1, 4, 8 y 11 de la Agenda México 2030
+
 
 Licencia: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
