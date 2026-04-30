@@ -1,7 +1,4 @@
-Base de datos abierta: diagnóstico socioeconómico del municipio de Minatitlán, Veracruz (2020–2025)
-Autor: Kevin David Molina Gomez
-Institución: Instituto Tecnológico de Minatitlán — TecNM / SEP
-Fecha de publicación: Abril de 2026
+
 Licencia: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 El municipio de Minatitlán, Veracruz, es uno de los centros urbanos más importantes del sur del estado, con una historia industrial relevante y una dinámica socioeconómica compleja que merece atención académica y de política pública. Sin embargo, los datos que lo describen se encuentran dispersos en distintos sistemas institucionales, con formatos heterogéneos y sin una referencia citable unificada.
